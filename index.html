@@ -4,7 +4,74 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
     <title>Login Page Assessment</title>
   </head>
-  <body></body>
+  <body>
+    <main>
+      <section class="category-1">
+        <h1 class="logo">Digital</h1>
+        <h2>
+          Artificial Intelligence Driving <br />
+          Results For The Travel Industry
+        </h2>
+        <p>Welcome back! Please login to your account</p>
+
+        <form action="">
+          <!-- email input box -->
+          <div class="form-group email">
+            <label for="email">Email Address</label>
+            <input
+              type="email"
+              name="email"
+              id="email"
+              value="hakeem@digital.com"
+            />
+          </div>
+
+          <!-- password input box -->
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input
+              type="password"
+              name="password"
+              id="password"
+              value="12345678901234"
+            />
+          </div>
+          <div class="remember">
+            <label>
+              <input type="checkbox" name="remember-me" />Remember Me
+            </label>
+            <a href="#">Forgot Password?</a>
+          </div>
+          <div class="buttons">
+            <button class="btn login">login</button>
+            <button class="btn sign-up">sign-up</button>
+          </div>
+        </form>
+        <div class="other-login">
+          <span>Or login with</span>
+          <a href="#">Facebook</a>
+          <a href="#">LinkedIn</a>
+          <a href="#">Google</a>
+        </div>
+      </section>
+
+      <!-- ---image category --- -->
+      <section class="category-2">
+        <img src="./img/clip-message-sent 1.png" alt="" />
+      </section>
+    </main>
+  </body>
 </html>
