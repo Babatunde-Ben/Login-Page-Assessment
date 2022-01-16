@@ -1,8 +1,8 @@
-# Login Page Assessment
+# LOGIN PAGE ASSESSMENT
 
 ## Introduction
 
-This project is a static login page designed in lieu of Malon Global Technologies Frontend Developer Assessment Test
+This project is a static login page designed in lieu of Malon Global Technologies Frontend Developer Assessment Test.
 
 ---
 
@@ -11,7 +11,7 @@ This project is a static login page designed in lieu of Malon Global Technologie
 - It has a login button.
 - A sign-up button for already registered.
 - A forgot-password button when users forget their password.
-- Other links to login instead of email and password
+- Other links to login instead of email and password.
 
 ---
 
