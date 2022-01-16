@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a static login page designed in lieu of Malon Global Technologies Frontend Developer Assessment Test.
+This project is a static login page designed in lieu of Malon Global Technologies Frontend Developer Assessment Test. It was built using HTML and CSS.
 
 ---
 
